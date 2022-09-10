@@ -1,3 +1,0 @@
-# javaScriptTutorials
- 
-test commit
