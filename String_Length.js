@@ -21,3 +21,26 @@
 // const text = "We are the so-called 'Viking' from the north.";
 
 // console.log(text);
+
+// --->  The sequence \' insert a single quote in a string :
+
+// const text= 'It\'s alright.';
+
+// console.log(text);
+
+// ---> The sequence \\ insert a backlash in a string.
+
+// const text = 'The charecter \\ is called backslash.';
+
+//   when you insert one backslash in string so it's create a ERROR. LIKE THUS ---> const text = 'The charecter \\ is called backslash.';
+
+// console.log(text);
+
+/*Six other sequence are valid in javascript : */
+
+// \b == Backspace
+// \f == From Feed
+// \n == New Line 
+// \r == Carriage Return
+// \t == Horizonal Tabulator
+// \v == Vertical Tabulator
