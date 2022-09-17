@@ -9,7 +9,40 @@
 
     // ---> JavaScript String Length : The length property returns the length of a string :
 
-    let txt ='abcdefghijklmnopqrstuvwxyz';
-    let length =txt.length;
+//     let txt ='abcdefghijklmnopqrstuvwxyz';
+//     let length =txt.length;
 
-    console.log(txt.length);
+//     console.log(txt.length);
+
+
+
+    // Extracting String Parts :--
+
+    // There are 3 methods for extracting a part of a string :
+
+
+      // --> slice(start, end)
+      // --> substring(start, end)
+      // --> substr(start, Length)
+
+        //  JavaScript String slice()\
+
+// slice()  extract part of a string and return the extracted part in a new string. 
+
+
+// Example :- 
+
+/*Slice out a portion of a string from position 7 position 13 (13 not included) */
+
+
+// const fruites = ['Applm', 'Pitch', 'Waterrmalon', 'Banana', 'Kiwi'];
+
+
+// console.log(fruites.slice(1,4))
+
+// ----> JavaScript String substring()
+
+// -->  substring() is similar to slice().
+
+// --> The difference is that start and end values less than 0 are treated as 0 in substring().
+
