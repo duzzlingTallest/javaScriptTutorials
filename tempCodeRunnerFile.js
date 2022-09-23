@@ -1,3 +1,4 @@
-const text = "We are the so-called 'Viking' from the north.";
+ const fruits = ["Banana", "Orange", "Apple"];
+        let type = typeof fruits;
 
-console.log(text);
+        console.log(type)

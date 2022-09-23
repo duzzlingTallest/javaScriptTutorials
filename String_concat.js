@@ -38,3 +38,16 @@ Strings are immutable: Strings cannot be changed, only replaced.
 
 // console.log(text1.trim())
 
+
+// --->  JavaScript String trimStart() :-
+
+/*   --->ECMAScript 2019 added the String method trimStart() to JavaScript.
+
+   --->  The trimStart() method works like trim(), but removes whitespace only from the start of a string. */
+
+//    const text1 = "            Hello World!     ";
+//    console.log(text1.trimStart())
+
+
+   // ---> JavaScript String trimStart() is supported in all browsers since January 2020:
+
