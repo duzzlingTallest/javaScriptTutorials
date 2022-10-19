@@ -9,10 +9,10 @@
 
     // ---> JavaScript String Length : The length property returns the length of a string :
 
-//     let txt ='abcdefghijklmnopqrstuvwxyz';
-//     let length =txt.length;
+    let txt ='abcdefghijklmnopqrstuvwxyz';
+    let length =txt.length;
 
-//     console.log(txt.length);
+    console.log(txt.length);
 
 
 
@@ -35,10 +35,10 @@
 /*Slice out a portion of a string from position 7 position 13 (13 not included) */
 
 
-// const fruites = ['Applm', 'Pitch', 'Waterrmalon', 'Banana', 'Kiwi'];
+const fruites = ['Applm', 'Pitch', 'Waterrmalon', 'Banana', 'Kiwi'];
 
 
-// console.log(fruites.slice(1,4))
+console.log(fruites.slice(1,4))
 
 // ----> JavaScript String substring()
 

@@ -7,12 +7,12 @@ A string is converted to lower case with toLowerCase():
 
 // JavaScript String toUpperCase() :-
 
-//   let text1 = "Hello World!!"
+  let text1 = "Hello World!!"
 
-//   console.log(text1.toUpperCase())
+  console.log(text1.toUpperCase())
 
 // JavaScript String toLowerCase() :--
 
-// let text1 = "Hello World!!"
+let text1 = "Hello World!!"
 
-//   console.log(text1.toLowerCase())
+  console.log(text1.toLowerCase())

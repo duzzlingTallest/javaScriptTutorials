@@ -4,17 +4,17 @@
 
 //  Ex :-
 
-// const cars = ["Saab", "Volvo", "BMW"];
+const cars = ["Saab", "Volvo", "BMW"];
 
-// console.log(cars)
+console.log(cars)
 
 //  Why Use Arrays?
 
 /*   If you have a list of items (a list of car names, for example), storing the cars in single variables could look like this:  */
 
-// const car1 = "Audi";
-// const car2 = "Volvo";
-// const car3 = "BMW";
+const car1 = "Audi";
+const car2 = "Volvo";
+const car3 = "BMW";
 
 /* However, what if you want to loop through the cars and find a specific one? And what if you had not 3 cars, but 300? */
 
@@ -26,37 +26,37 @@
 
 // Using an array literal is the easiest way to create a JavaScript Array.
 
-// const cars = ["Saab", "Volvo", "BMW"];
+const cars = ["Saab", "Volvo", "BMW"];
 
-// console.log(cars)
+console.log(cars)
 
 /* It is a common practice to declare arrays with the const keyword.
 
 Learn more about const with arrays in the chapter: JS Array Const. */
 
-// const cars = ["Saab", "Volvo", "BMW"];
+const cars = ["Saab", "Volvo", "BMW"];
 
-// console.log(cars)
+console.log(cars)
 
 // Spaces and line breaks are not important. A declaration can span multiple lines:
 
 // EX :-
 
-// const cars = [
-//     "Saab",
-//     "Volvo",
-//     "BMW",
-// ];
+const cars = [
+    "Saab",
+    "Volvo",
+    "BMW",
+];
 
-// console.log(cars)
+console.log(cars)
 
 
 /* Using the JavaScript Keyword new :
            The following example also creates an Array, and assigns values to it:*/
 
-// const cars = new Array("Volvo","BMW","Skoda");
+const cars = new Array("Volvo","BMW","Skoda");
 
-// console.log(cars)
+console.log(cars)
 
 /*   --->  The two examples above do exactly the same.
 
@@ -68,10 +68,10 @@ Learn more about const with arrays in the chapter: JS Array Const. */
           You access an array element by referring to the index number:*/
 
 
-        //   const cars =["Skoda","Volvo","BMW"]
-        //   let car = cars[0];
+          const cars =["Skoda","Volvo","BMW"]
+          let car = cars[0];
 
-        //   console.log(car)
+          console.log(car)
     
 
         /*Note: Array indexes start with 0.
@@ -82,7 +82,7 @@ Learn more about const with arrays in the chapter: JS Array Const. */
 /* Changing an Array Element :- 
              This statement changes the value of the first element in cars:*/
 
-            //  cars[0] = "ope1";
+             cars[0] = "ope1";
 
             // EX:-
 

@@ -6,10 +6,10 @@
 
 // EX:-
 
-//   const text1 = "Hello";
-//   const text2 = "World";
+  const text1 = "Hello";
+  const text2 = "World";
 
-//   console.log(text1.concat("",text2))
+  console.log(text1.concat("",text2))
 
 // 2} MATHODE
 
@@ -17,9 +17,9 @@
 
 //EX:-
 
-//    text ="Hello" + " " + "World!";
+   text ="Hello" + " " + "World!";
 
-//    console.log("Hello".concat(" ","World!"));
+    console.log("Hello".concat(" ","World!"));
 
 // NOTE:-  
 
@@ -34,9 +34,9 @@ Strings are immutable: Strings cannot be changed, only replaced.
 
 // --> The trim() method removes whitespace from both sides of a string:
 
-// let text1 = "     Hello World!!       ";
+let text1 = "     Hello World!!       ";
 
-// console.log(text1.trim())
+console.log(text1.trim())
 
 
 // --->  JavaScript String trimStart() :-
@@ -45,8 +45,8 @@ Strings are immutable: Strings cannot be changed, only replaced.
 
    --->  The trimStart() method works like trim(), but removes whitespace only from the start of a string. */
 
-//    const text1 = "            Hello World!     ";
-//    console.log(text1.trimStart())
+   const text1 = "            Hello World!     ";
+   console.log(text1.trimStart())
 
 
    // ---> JavaScript String trimStart() is supported in all browsers since January 2020:

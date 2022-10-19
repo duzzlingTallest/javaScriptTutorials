@@ -6,10 +6,10 @@
 
 //CODE :-
 
-// let carName1='BMW X7'
-// let carName2="BMW X7"
+let carName1='BMW X7'
+let carName2="BMW X7"
 
-// console.log(carName1,carName2);
+console.log(carName1,carName2);
 
 /* -->  We can use quotes inside a string, aas long as they don't match the quotes surrounding the string */
 

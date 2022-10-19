@@ -1,5 +1,8 @@
 
-const fruits = ["Banana", "Orange", "Apple", "Mango"];
-delete fruits[0];
+let myPromise = new Promise(function(res,rej) {
+    setTimeout(function() { res("Kaushal Damani....!")},4000);
+});
 
-console.log(fruits)
+myPromise.then(function(value) {
+    console.log(value);
+});

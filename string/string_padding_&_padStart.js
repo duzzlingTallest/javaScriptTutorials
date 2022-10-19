@@ -6,14 +6,14 @@
 
 // --->  The padStart() method pads a string with another string:
 
-// let text = "5";
+let text = "5";
 
-// console.log(text.padStart(4,"x"))
+console.log(text.padStart(4,"x"))
 
 //  2).  code
 
-    // let text = "7";
-    // console.log(text.padStart(4,"0"))
+    let text = "7";
+    console.log(text.padStart(4,"0"))
 
       /*  ===> Note
 The padStart() method is a string method.
